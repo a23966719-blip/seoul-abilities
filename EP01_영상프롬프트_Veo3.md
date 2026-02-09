@@ -1,18 +1,19 @@
-# EP.01 "당신의 온도" — Veo 3.1 영상 프롬프트 + 보조 이미지 프롬프트
+# EP.01 "당신의 온도" — 영상/이미지 프롬프트
 
-> **사용법**: Veo 클립 프롬프트는 Google AI Studio에, 이미지 프롬프트는 Bing Image Creator에 복사 붙여넣기
+> **영상 클립 프롬프트** → **구글 플로우**에 복사 붙여넣기
+> **정지 이미지 프롬프트** → **나노바나나프로**에 복사 붙여넣기
 > 모든 프롬프트는 영어로 되어 있습니다 (AI 도구가 영어 프롬프트에서 더 좋은 결과를 냅니다)
 
 ---
 
 ## 스타일 통일 키워드
 
-### Veo 3.1 영상용 (모든 영상 프롬프트 끝에 붙이기)
+### 구글 플로우 영상용 (모든 영상 프롬프트 끝에 붙이기)
 ```
 cinematic, warm color grading, Korean modern drama style, soft natural lighting, shallow depth of field, 1080p, emotional mood
 ```
 
-### 정지 이미지용 (모든 이미지 프롬프트 끝에 붙이기)
+### 나노바나나프로 이미지용 (모든 이미지 프롬프트 끝에 붙이기)
 ```
 soft illustration style, warm color palette, cinematic lighting, Korean modern urban setting, emotional atmosphere, no text
 ```
@@ -23,7 +24,7 @@ soft illustration style, warm color palette, cinematic lighting, Korean modern u
 
 ---
 
-### 장면 1: 타이틀 — 손끝의 빛 [Veo 영상 클립]
+### 장면 1: 타이틀 — 손끝의 빛 [구글 플로우 영상 클립]
 **대본 구간**: 0:00~0:30 (프롤로그 — "손끝이 뜨거웠습니다")
 **길이**: 6~8초
 
@@ -33,7 +34,7 @@ Extreme close-up of an elderly Korean man's weathered hands resting on his knees
 
 ---
 
-### 장면 2: 아침 일상 — 아파트 앞 벤치 [정지 이미지]
+### 장면 2: 아침 일상 — 아파트 앞 벤치 [나노바나나프로 이미지]
 **대본 구간**: 0:30~5:00 (편의점 아침, 경비원 대화, 산책)
 **CapCut에서 슬로우 줌인 효과 적용**
 
@@ -43,7 +44,7 @@ A lonely middle-aged Korean man sitting on a bench near an apartment complex in 
 
 ---
 
-### 장면 3: 회상 — 병실 [정지 이미지]
+### 장면 3: 회상 — 병실 [나노바나나프로 이미지]
 **대본 구간**: 5:00~7:30 (아내 투병 회상)
 **CapCut에서 페이드 인/아웃 + 약간 흐릿한 필터 적용**
 
@@ -53,7 +54,7 @@ A Korean man in his early 50s holding his sick wife's hand in a dimly lit hospit
 
 ---
 
-### 장면 4: 꽃집 발견 — 정희네 꽃방 [Veo 영상 클립]
+### 장면 4: 꽃집 발견 — 정희네 꽃방 [구글 플로우 영상 클립]
 **대본 구간**: 7:30~10:00 (꽃집 앞, 첫 재회)
 **길이**: 6~8초
 
@@ -63,7 +64,7 @@ A middle-aged Korean man walks along a quiet neighborhood street in Seoul and st
 
 ---
 
-### 장면 5: 꽃집 내부 대화 — 커피 마시며 [정지 이미지]
+### 장면 5: 꽃집 내부 대화 — 커피 마시며 [나노바나나프로 이미지]
 **대본 구간**: 10:00~13:00 (재회, 인스턴트커피 대화)
 **CapCut에서 슬로우 팬 효과 적용**
 
@@ -73,7 +74,7 @@ Inside a small cozy Korean flower shop, a middle-aged man and woman sitting acro
 
 ---
 
-### 장면 6: 태호네 다방 — 공진 카페 [Veo 영상 클립]
+### 장면 6: 태호네 다방 — 공진 카페 [구글 플로우 영상 클립]
 **대본 구간**: 13:00~16:30 (정태호 상담)
 **길이**: 6~8초
 
@@ -83,7 +84,7 @@ Interior of a traditional Korean hanok converted into a cozy small cafe. An olde
 
 ---
 
-### 장면 7: 능력 사용 — 꽃방에서 치유 [Veo 영상 클립]
+### 장면 7: 능력 사용 — 꽃방에서 치유 [구글 플로우 영상 클립]
 **대본 구간**: 16:30~19:00 (정희 쓰러짐, 손으로 치유)
 **길이**: 6~8초
 
@@ -93,7 +94,7 @@ Inside a flower shop, a Korean man kneels beside a woman who is sitting on the f
 
 ---
 
-### 장면 8: 갈등 — 발각과 침묵 [정지 이미지]
+### 장면 8: 갈등 — 발각과 침묵 [나노바나나프로 이미지]
 **대본 구간**: 19:00~22:00 (능력 발각, 정희 물러섬, 3일간 단절)
 **CapCut에서 약간 어두운 톤 필터 + 슬로우 줌아웃**
 
@@ -103,7 +104,7 @@ A Korean woman stepping back with a shocked and worried expression, looking at a
 
 ---
 
-### 장면 9: 국화 꽃다발 — 현관 앞 [정지 이미지]
+### 장면 9: 국화 꽃다발 — 현관 앞 [나노바나나프로 이미지]
 **대본 구간**: 22:00~22:30 (현관 앞 국화 + 메모)
 **CapCut에서 슬로우 줌인**
 
@@ -113,7 +114,7 @@ A bouquet of chrysanthemums placed on the doorstep of a Korean apartment, a smal
 
 ---
 
-### 장면 10: 한강 산책 — 나란히 걷기 [Veo 영상 클립]
+### 장면 10: 한강 산책 — 나란히 걷기 [구글 플로우 영상 클립]
 **대본 구간**: 22:30~26:00 (퇴원 후 한강, 고백)
 **길이**: 8초 (핵심 장면이므로 최대 길이)
 
@@ -123,7 +124,7 @@ A middle-aged Korean man and woman walking side by side along the Hangang river 
 
 ---
 
-### 장면 11: 엔딩 — 태호네 다방 창가 [Veo 영상 클립]
+### 장면 11: 엔딩 — 태호네 다방 창가 [구글 플로우 영상 클립]
 **대본 구간**: 26:00~29:00 (정태호 대화, 에필로그)
 **길이**: 6~8초
 
@@ -133,7 +134,7 @@ View from inside a traditional Korean hanok cafe looking out through the window.
 
 ---
 
-### 장면 12: 다음 에피소드 예고 [정지 이미지]
+### 장면 12: 다음 에피소드 예고 [나노바나나프로 이미지]
 **대본 구간**: 29:00~30:00
 **CapCut에서 텍스트 오버레이 추가**
 
@@ -147,24 +148,24 @@ A mysterious Korean woman in her 40s standing on a busy Seoul street at night, c
 
 | 순서 | 장면 | 타입 | 대본 구간 | Veo 길이 |
 |------|------|------|-----------|----------|
-| 1 | 손끝의 빛 (타이틀) | **Veo 클립** | 0:00~0:30 | 6~8초 |
-| 2 | 아파트 벤치 | 이미지 | 0:30~5:00 | — |
-| 3 | 병실 회상 | 이미지 | 5:00~7:30 | — |
-| 4 | 꽃집 발견 | **Veo 클립** | 7:30~10:00 | 6~8초 |
-| 5 | 꽃집 내부 대화 | 이미지 | 10:00~13:00 | — |
-| 6 | 태호네 다방 | **Veo 클립** | 13:00~16:30 | 6~8초 |
-| 7 | 능력 사용 (치유) | **Veo 클립** | 16:30~19:00 | 6~8초 |
-| 8 | 갈등/발각 | 이미지 | 19:00~22:00 | — |
-| 9 | 국화 꽃다발 | 이미지 | 22:00~22:30 | — |
-| 10 | 한강 산책 (핵심) | **Veo 클립** | 22:30~26:00 | 8초 |
-| 11 | 카페 엔딩 | **Veo 클립** | 26:00~29:00 | 6~8초 |
-| 12 | 다음 에피소드 예고 | 이미지 | 29:00~30:00 | — |
+| 1 | 손끝의 빛 (타이틀) | **구글 플로우** | 0:00~0:30 | 6~8초 |
+| 2 | 아파트 벤치 | 나노바나나 | 0:30~5:00 | — |
+| 3 | 병실 회상 | 나노바나나 | 5:00~7:30 | — |
+| 4 | 꽃집 발견 | **구글 플로우** | 7:30~10:00 | 6~8초 |
+| 5 | 꽃집 내부 대화 | 나노바나나 | 10:00~13:00 | — |
+| 6 | 태호네 다방 | **구글 플로우** | 13:00~16:30 | 6~8초 |
+| 7 | 능력 사용 (치유) | **구글 플로우** | 16:30~19:00 | 6~8초 |
+| 8 | 갈등/발각 | 나노바나나 | 19:00~22:00 | — |
+| 9 | 국화 꽃다발 | 나노바나나 | 22:00~22:30 | — |
+| 10 | 한강 산책 (핵심) | **구글 플로우** | 22:30~26:00 | 8초 |
+| 11 | 카페 엔딩 | **구글 플로우** | 26:00~29:00 | 6~8초 |
+| 12 | 다음 에피소드 예고 | 나노바나나 | 29:00~30:00 | — |
 
-**합계**: Veo 클립 6개 + 정지 이미지 6장
+**합계**: 구글 플로우 클립 6개 + 나노바나나프로 이미지 6장
 
 ---
 
-## 추가: 썸네일용 이미지 (Bing Image Creator용)
+## 추가: 썸네일용 이미지 (나노바나나프로용)
 
 ```
 A cinematic close-up of two hands almost touching, one hand faintly glowing with warm golden light, chrysanthemum petals scattered around, dark background with warm spotlight, Korean drama poster style, emotional and mysterious mood, high quality, no text
